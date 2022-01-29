@@ -4,7 +4,7 @@ The problem statement is how do we identify a company business segment. Like man
 ## labeling
 I have decided to use labelstudio for my annotation task. It works pretty well but since I am using the free version, I am unable to use the active learning functionality
 <p>
-<img src="asset/label_studio_labelling.JPG", width="200px">
+<img src="asset/label_studio_labelling.JPG", width="600px">
 </p><br>
 
 ## Try it out!
@@ -12,7 +12,7 @@ Hit on random buttone to generate a random news article and hit predict to gener
 https://huggingface.co/spaces/wolfrage89/company_segments_ner
 
 <p align="center">
-<img src="asset/HF_spacers.JPG", width="200px">
+<img src="asset/HF_spaces.JPG", width="600px">
 <p><br>
 
 ## Training Script
@@ -28,7 +28,7 @@ I have created the training script from scratch. I believe that will be somethin
 wandb report link: https://wandb.ai/zuozhe/company_segment_ner/reports/Company-Segment-NER--VmlldzoxNDk4NTYz?accessToken=zpo4zi9jxdyrmq6mn21omv8hprcxilj0h9fjqboacuv0e7dqacbwlwu32jh27k79
 
 <p align="center">
-<img src="asset/wandb.JPG", width="200px">
+<img src="asset/wandb.JPG", width="600px">
 <p><br>
 
 
