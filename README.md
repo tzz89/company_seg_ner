@@ -3,7 +3,7 @@ The problem statement is how do we identify a company business segment. Like man
 
 ## labeling
 I have decided to use labelstudio for my annotation task. It works pretty well but since I am using the free version, I am unable to use the active learning functionality
-<p>
+<p align="center>
 <img src="asset/label_studio_labelling.JPG", width="600px">
 </p><br>
 
@@ -16,7 +16,7 @@ https://huggingface.co/spaces/wolfrage89/company_segments_ner
 <p><br>
 
 ## Training Script
-Colab link: https://colab.research.google.com/drive/1DRa_STXCzxC8yZnyH4fV0i192b4-ewfO?usp=sharing
+Colab link: https://colab.research.google.com/drive/1DRa_STXCzxC8yZnyH4fV0i192b4-ewfO?usp=sharing \
 I have created the training script from scratch. I believe that will be something you can reference on for future NER task that you may have. It includes
 1. Weights and biases logging
 2. seqeval metrics
